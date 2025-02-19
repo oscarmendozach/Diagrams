@@ -1,0 +1,1 @@
+Este repositorio busca la migracion y gestion de los diagramas de lucidchart hacia draw.io
