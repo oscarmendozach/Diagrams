@@ -1,9 +1,267 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.15">
   <diagram name="Page-1" id="51ZZGY3T8ZS1ISeSKem2">
-    <mxGraphModel>
+    <mxGraphModel dx="2331" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-82" value="JD Edwards" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="1410" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-83" value="F4311" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-82">
+          <mxGeometry x="190" y="10" width="140" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-84" value="Evaluación de Datos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-83">
+          <mxGeometry x="12" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-85" value="DDL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-83">
+          <mxGeometry x="12" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-86" value="Diseño de Arquitectura de Integración" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-83">
+          <mxGeometry x="12" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-87" value="Desarrollo de scripts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-83">
+          <mxGeometry x="12" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-88" value="Carga de Historial" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-83">
+          <mxGeometry x="12" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-89" value="Pruebas Unitarias" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-83">
+          <mxGeometry x="12" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-90" value="Integración al Proceso Diario" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-83">
+          <mxGeometry x="12" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-91" value="Pruebas de Integración" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-83">
+          <mxGeometry x="12" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-92" value="Pase a Producción" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-83">
+          <mxGeometry x="12" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-93" value="Automatización" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-83">
+          <mxGeometry x="12" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-94" value="Pruebas de Automatización" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-83">
+          <mxGeometry x="12" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-95" value="QC Datos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-83">
+          <mxGeometry x="12" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-96" value="F4111" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-82">
+          <mxGeometry x="340" y="10" width="140" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-97" value="Evaluación de Datos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-96">
+          <mxGeometry x="12" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-98" value="DDL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-96">
+          <mxGeometry x="12" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-99" value="Diseño de Arquitectura de Integración" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-96">
+          <mxGeometry x="12" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-100" value="Desarrollo de scripts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-96">
+          <mxGeometry x="12" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-101" value="Carga de Historial" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-96">
+          <mxGeometry x="12" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-102" value="Pruebas Unitarias" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-96">
+          <mxGeometry x="12" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-103" value="Integración al Proceso Diario" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-96">
+          <mxGeometry x="12" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-104" value="Pruebas de Integración" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-96">
+          <mxGeometry x="12" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-105" value="Pase a Producción" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-96">
+          <mxGeometry x="12" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-106" value="Automatización" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-96">
+          <mxGeometry x="12" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-107" value="Pruebas de Automatización" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-96">
+          <mxGeometry x="12" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-108" value="QC Datos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-96">
+          <mxGeometry x="12" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-109" value="F43199" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-82">
+          <mxGeometry x="490" y="10" width="140" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-110" value="Evaluación de Datos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-109">
+          <mxGeometry x="12" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-111" value="DDL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-109">
+          <mxGeometry x="12" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-112" value="Diseño de Arquitectura de Integración" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-109">
+          <mxGeometry x="12" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-113" value="Desarrollo de scripts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-109">
+          <mxGeometry x="12" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-114" value="Carga de Historial" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-109">
+          <mxGeometry x="12" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-115" value="Pruebas Unitarias" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-109">
+          <mxGeometry x="12" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-116" value="Integración al Proceso Diario" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-109">
+          <mxGeometry x="12" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-117" value="Pruebas de Integración" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-109">
+          <mxGeometry x="12" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-118" value="Pase a Producción" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-109">
+          <mxGeometry x="12" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-119" value="Automatización" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-109">
+          <mxGeometry x="12" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-120" value="Pruebas de Automatización" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-109">
+          <mxGeometry x="12" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-121" value="QC Datos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-109">
+          <mxGeometry x="12" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-122" value="F43099" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-82">
+          <mxGeometry x="640" y="10" width="140" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-123" value="Evaluación de Datos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-122">
+          <mxGeometry x="12" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-124" value="DDL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-122">
+          <mxGeometry x="12" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-125" value="Diseño de Arquitectura de Integración" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-122">
+          <mxGeometry x="12" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-126" value="Desarrollo de scripts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-122">
+          <mxGeometry x="12" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-127" value="Carga de Historial" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-122">
+          <mxGeometry x="12" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-128" value="Pruebas Unitarias" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-122">
+          <mxGeometry x="12" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-129" value="Integración al Proceso Diario" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-122">
+          <mxGeometry x="12" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-130" value="Pruebas de Integración" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-122">
+          <mxGeometry x="12" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-131" value="Pase a Producción" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-122">
+          <mxGeometry x="12" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-132" value="Automatización" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-122">
+          <mxGeometry x="12" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-133" value="Pruebas de Automatización" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-122">
+          <mxGeometry x="12" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-134" value="QC Datos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-122">
+          <mxGeometry x="12" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-135" value="F0101" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-82">
+          <mxGeometry x="790" y="10" width="140" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-136" value="Evaluación de Datos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-135">
+          <mxGeometry x="12" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-137" value="DDL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-135">
+          <mxGeometry x="12" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-138" value="Diseño de Arquitectura de Integración" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-135">
+          <mxGeometry x="12" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-139" value="Carga de Historial" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-135">
+          <mxGeometry x="12" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-140" value="F4101" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-82">
+          <mxGeometry x="940" y="10" width="140" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-141" value="Evaluación de Datos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-140">
+          <mxGeometry x="12" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-142" value="DDL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-140">
+          <mxGeometry x="12" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-143" value="Diseño de Arquitectura de Integración" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-140">
+          <mxGeometry x="12" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-144" value="Carga de Historial" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-140">
+          <mxGeometry x="12" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-145" value="F4102" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-82">
+          <mxGeometry x="1090" y="10" width="140" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-146" value="Evaluación de Datos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-145">
+          <mxGeometry x="12" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-147" value="DDL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-145">
+          <mxGeometry x="12" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-148" value="Diseño de Arquitectura de Integración" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-145">
+          <mxGeometry x="12" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-149" value="Carga de Historial" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-145">
+          <mxGeometry x="12" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-150" value="F4209" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-82">
+          <mxGeometry x="1240" y="10" width="140" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-151" value="Evaluación de Datos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-150">
+          <mxGeometry x="12" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-152" value="DDL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-150">
+          <mxGeometry x="12" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-153" value="Diseño de Arquitectura de Integración" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-150">
+          <mxGeometry x="12" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-154" value="Carga de Historial" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-150">
+          <mxGeometry x="12" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-155" value="Reporte Activacion" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-82">
+          <mxGeometry x="40" y="10" width="140" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-156" value="Evaluación de Datos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-155">
+          <mxGeometry x="12" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-157" value="DDL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-155">
+          <mxGeometry x="12" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-158" value="Diseño de Arquitectura de Integración" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-155">
+          <mxGeometry x="12" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-159" value="Desarrollo de scripts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-155">
+          <mxGeometry x="12" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-160" value="Carga de Historial" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-155">
+          <mxGeometry x="12" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-161" value="Pruebas Unitarias" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-155">
+          <mxGeometry x="12" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-162" value="Integración al Proceso Diario" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-155">
+          <mxGeometry x="12" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-163" value="Pruebas de Integración" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-155">
+          <mxGeometry x="12" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-164" value="Pase a Producción" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-155">
+          <mxGeometry x="12" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-165" value="Automatización" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-155">
+          <mxGeometry x="12" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-166" value="Pruebas de Automatización" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-155">
+          <mxGeometry x="12" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oH-CEqXEDyGIyah3k_EW-167" value="QC Datos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oH-CEqXEDyGIyah3k_EW-155">
+          <mxGeometry x="12" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
